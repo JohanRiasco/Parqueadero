@@ -1,2 +1,0 @@
-# Algoritmia
-Tareas
